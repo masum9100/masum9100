@@ -1,4 +1,4 @@
-![Turning Ideas into Intuitive User Interfaces with a Passion for Clean Code](https://i.ibb.co/F02qgbh/Teal-White-Navy-Simple-Light-Health-QR-Code-Business-Card.png)
+![Turning Ideas into Intuitive User Interfaces with a Passion for Clean Code](https://i.ibb.co/wMWfPmR/Teal-White-Navy-Simple-Light-Health-QR-Code-Business-Card-1.png)
 
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h3 align="center">Crafting Dynamic Web Experiences with ReactJS & TailwindCSS | Turning Ideas into Intuitive User Interfaces with a Passion for Clean Code</h3>
