@@ -17,7 +17,7 @@ Let's connect and create something amazing together!</h5>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masum9100&theme=transparent&border_radius=10)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum9100&show_icons=true&locale=en&layout=compact" alt="masum9100" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum9100&show_icons=true&locale=en&layout=compact" alt="masum9100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masum9100&show_icons=true&locale=en" alt="masum9100" /></p>
 
