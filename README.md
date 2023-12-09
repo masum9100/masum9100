@@ -26,7 +26,5 @@ Skills: REACT / JS / HTML / CSS / TaillwindCSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum9100&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/masum9100)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masum9100)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masum9100&theme=transparent&border_radius=6.1&mode=weekly)](https://git.io/streak-stats)
 
