@@ -13,7 +13,9 @@ Let's connect and create something amazing together!
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masum9100&theme=transparent&border_radius=6.1&mode=weekly)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: center;">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masum9100&theme=transparent&border_radius=6.1&mode=weekly)](https://git.io/streak-stats)
+</div>
 
 <hr>
 
