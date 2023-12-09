@@ -17,7 +17,6 @@ Let's connect and create something amazing together!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masum9100" alt="masum9100" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/30masum" target="blank"><img src="https://img.shields.io/twitter/follow/30masum?logo=twitter&style=for-the-badge" alt="30masum" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
