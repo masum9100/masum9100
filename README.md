@@ -4,7 +4,7 @@
 <h3 align="center">Crafting Dynamic Web Experiences with ReactJS & TailwindCSS | Turning Ideas into Intuitive User Interfaces with a Passion for Clean Code</h3>
 
 <h3 align="left">About me:</h3>
-<h5 align="center">Hey there! I'm Masum Billah, a passionate web developer diving into the realms of frontend technologies. My journey in coding began with HTML and CSS, and I've since embraced the power of JavaScript and React to create engaging and dynamic web experiences.
+<h5 align="left">Hey there! I'm Masum Billah, a passionate web developer diving into the realms of frontend technologies. My journey in coding began with HTML and CSS, and I've since embraced the power of JavaScript and React to create engaging and dynamic web experiences.
 
 Driven by a love for clean and intuitive design, I thrive on crafting interfaces that not only look good but also provide seamless user experiences. I'm particularly fascinated by TailwindCSS for its ability to streamline my workflow and bring designs to life efficiently.
 
