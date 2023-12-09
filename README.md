@@ -11,7 +11,7 @@ When I'm not coding, you'll find me exploring new tech trends, tinkering with co
 
 Let's connect and create something amazing together!
 
-Skills: REACT / JS / HTML / CSS / TaillwindCSS
+### Skills: REACT / JS / HTML / CSS / TaillwindCSS
 
 
 
