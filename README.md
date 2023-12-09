@@ -28,3 +28,5 @@ Skills: REACT / JS / HTML / CSS / TaillwindCSS
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masum9100&theme=transparent&border_radius=6.1&mode=weekly)](https://git.io/streak-stats)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
